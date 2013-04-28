@@ -1,0 +1,14 @@
+#video
+{
+    display: none;
+}
+table
+{
+    margin: 0 auto;
+}
+#photo
+{
+    cursor: pointer;
+    display: block;
+    margin: 10px auto;
+}
