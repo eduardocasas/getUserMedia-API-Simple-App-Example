@@ -3,4 +3,5 @@ getUserMedia-API-Simple-App-Example
 
  A very simple WebCam control app sample powered with HTML5, jQuery and Canvas.
  
- This is the source code I have developed to write the article "Controlando nuestra WebCam con HTML5" available at http://www.eduardocasas.com/blog/07-01-2013/controlando-nuestra-webcam-con-html5
+ This is the source code I have developed to write the articles:
+ <a href="http://www.eduardocasas.com/blog/07-01-2013/controlando-nuestra-webcam-con-html5">"Controlando nuestra WebCam con HTML5"</a> and <a href="http://www.eduardocasas.com/blog/29-04-2013/mostrando-multiples-instancias-de-nuestra-webcam">"Mostrando múltiples instancias de nuestra webcam"</a>
